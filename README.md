@@ -4,7 +4,7 @@
 
 QuanLyNhanVien is a simple WPF (Windows Presentation Foundation) application for managing employee information. This application allows you to add, edit, delete, and view employee data. It also includes features for sorting employees by seniority and displaying statistics.
 
-![Screenshot](screenshot.png)
+![Screenshot](QuanLyNhanVienApp.png)
 
 ## Features
 
