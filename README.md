@@ -47,4 +47,3 @@ QuanLyNhanVien is a simple WPF (Windows Presentation Foundation) application for
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or bug fixes, please create a pull request.
-
